@@ -1,0 +1,31 @@
+@media (max-width: 992px) {
+
+    .navbar-collapse {
+        background: rgba(0,172,217,1);
+        padding-left: 1rem;
+    }
+
+}
+@media (max-width: 768px) {
+    .image-box {
+        display: none;
+    }
+   .main-hero-content h1 {
+        text-align: center;
+    }
+
+    .main-hero-content p {
+        text-align: center;
+    }
+
+    .hero-buttons {
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+    #contact .address {
+        margin-top: 2rem;
+    }
+    .footer-logo {
+        margin-top: -1rem;
+    }
+}
